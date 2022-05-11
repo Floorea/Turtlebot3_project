@@ -1,6 +1,4 @@
-In acest proiect am programat robotelul Turtlebot3 sa detecteze o minge pe baza culorii, sa ii stabileasca pozitia cu ajutorul lidarului, 
-sa calculeze o traiectorie si sa o inscrie intr-o poarta. Robotul are doua variante de a inscrie mingea. Un driblarea mingii pana in poarta
-sau lovirea mingii cu un "shoot".
+In acest proiect am programat robotelul Turtlebot3 sa detecteze o minge pe baza culorii, sa ii stabileasca pozitia cu ajutorul lidarului, sa calculeze o traiectorie si sa o inscrie intr-o poarta. Robotul are doua variante de a inscrie mingea: driblarea mingii pana in poarta sau lovirea mingii cu un "shoot".
 
 Tehnologii folosite:
 Linux (ubuntu 20.04)
